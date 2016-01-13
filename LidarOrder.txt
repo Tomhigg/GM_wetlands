@@ -1,0 +1,8 @@
+Lidar Data, 2m DTM obtained from the EA
+
+Source http://environment.data.gov.uk/ds/survey#/download
+
+Following tiles downloaded
+
+"SD30" "SD31" "SD32" "SD40" "SD41" "SD42" "SD50" "SD51" "SD52" "SJ58" "SD60" "SD61" "SD62" "SD70" "SD71" "SD72" "SD81" "SD82" "SJ49" "SJ59"
+"SJ68" "SJ69" "SJ78" "SJ79" "SJ49"
